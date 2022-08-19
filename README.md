@@ -9,9 +9,3 @@ Para mais informações sobre o desafio acesse o repositório do [github](https:
 ### Informações:
 
 Para executar o programa digite o comando **node .\index.js**, no diretório em que estão os arquivos.
-
-### Exemplos
-
-Demonstração abaixo:
-
-![Demo](Imagem_exemplo\exemplo.png)
